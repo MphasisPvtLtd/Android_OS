@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This file is from master branch
+=======
+Bug has been fixed.
+Issue resolved.
+>>>>>>> bugfix
